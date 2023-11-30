@@ -1,6 +1,5 @@
 # cockroachdb
 
-postgresql://mark_chen:Pnhi6V7UZphaulXoYOs3QA@garden-gnome-6828.8nk.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full
-
+[secret](https://gist.github.com/ZeroMarker/1d45adb33458f5468d851d345244d480)
 
 docker pull cockroachdb/cockroach
